@@ -1,0 +1,22 @@
+body {
+	padding: 117px 0 0 0;
+	background-color: #202A30;
+}
+
+.top_banner {
+	margin: 0;
+	padding: 0;
+	height: 472px;
+	position: relative;
+	background-image: url(../img/top_bg_2.png)
+}
+
+.navbar-default {
+	height: 100%;
+	width: 100%;
+	background-image: url(../img/top_bg_glow.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	background-position: top center;
+}
+
